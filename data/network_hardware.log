@@ -1,0 +1,31 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-09-20 16:29:59
+Active Processes   : 226 running processes
+CPU Utilization    : 0% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name               RAM_MB
+----               ------
+Memory Compression 532.91
+SearchHost         226.19
+WhatsApp.Root      192.48
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:        157.1  237.67
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: 10.11.1.231
+Internet Latency   : 21 ms (Target: 8.8.8.8)
+====================================================
